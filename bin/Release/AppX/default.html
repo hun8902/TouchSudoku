@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>TouchSudoku</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0.RC/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0.RC/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0.RC/js/ui.js"></script>
+
+    <!-- TouchSudoku references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+
+    <script src="/js/script.js"></script>
+    <link href="/css/styles.gz.css" rel="stylesheet"/>
+
+    <script src='/js/jquery.min.js'></script>
+    <script src='/js/jq.extentions.gz.js'></script>
+    <script src='/js/DLX.js'></script>
+    <script src='/js/sudoku.v2.5.gz.js'></script>
+    <script src='/js/board.games.gz.js'></script>
+</head>
+<body>
+    <header>
+			<h2>TOUCH SUDOKU</h2>
+		</header>
+        <div class='output'>level : <span></span></div>
+        <div class="time_ot"></div> 
+		<div class='outterWrap'>
+			<div id="board_cont"><div class='contwrap'></div></div>
+		</div>   
+        
+        <div class="sudokuhelp">
+            Game Options & help <br /><br />
+            Windows key + C <br />or&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+            <img src="/images/right.png" />
+        </div>
+        <div class="sudokuhelp1">
+            SUDOKU Game menu<br /><br />
+            mouse right click<br />or&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+            <img src="/images/bottom.png" />
+        </div>    
+        <script>
+            board.init($('#board_cont > div'));
+        </script>
+</body>
+
+<!-- BEGINTEMPLATE: Template code for an app bar -->
+<div id="sudokuAppBar" data-win-control="WinJS.UI.AppBar" data-win-options="">
+    <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'notes',label:'All Note',icon:'A',section:'global',tooltip:'Note'}">
+    </button>
+    <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'clearNotes',label:'Clear Note',icon:'C',section:'global',tooltip:'Clear Note'}">
+    </button>
+    <hr data-win-control="WinJS.UI.AppBarCommand"  data-win-options="{type:'separator',section:'global'}" />
+    <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'save',label:'Save',icon:'S',section:'global',tooltip:'Save'}">
+    </button>
+    <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'load',label:'Load',icon:'L',section:'global',tooltip:'Load'}">
+    </button>
+    <hr data-win-control="WinJS.UI.AppBarCommand"  data-win-options="{type:'separator',section:'global'}" />
+    <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'reset',label:'Reset',icon:'R',section:'global',tooltip:'Reset'}">
+    </button>
+    <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'new',label:'New',icon:'N',section:'global',tooltip:'New'}">
+    </button>
+    <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'Easy',label:'Easy',icon:'1',section:'selection',tooltip:'Easy'}">
+    </button>
+    <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'medium',label:'medium',icon:'2',section:'selection',tooltip:'medium'}">
+    </button>
+    <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'tough',label:'tough',icon:'3',section:'selection',tooltip:'tough'}">
+    </button>
+    <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'verytough',label:'very tough',icon:'4',section:'selection',tooltip:'very tough'}">
+    </button>
+    <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'extreme',label:'extreme',icon:'5',section:'selection',tooltip:'extreme'}">
+    </button>
+</div>
+<!-- ENDTEMPLATE -->
+</html>

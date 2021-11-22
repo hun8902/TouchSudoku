@@ -1,0 +1,9 @@
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bin\Release\resources.pri
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bin\Release\AppxManifest.xml
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bin\Release\TouchSudoku.build.appxrecipe
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Release\priconfig.xml
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Release\layout.resfiles
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Release\resources.resfiles
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Release\pri.resfiles
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Release\LanguageQualifiers.txt
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Release\ProjectArchitectures.txt

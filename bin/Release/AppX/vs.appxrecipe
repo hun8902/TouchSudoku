@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>COOLSOFT2</Machine>
+    <WindowsUser>영훈</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>1C55993CC4B93DF659CDB4C45816A0D124F5E10147B744C429E4F24E22FBBAA4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2b4c42fb-2676-4c9e-ae3f-38185ffaac6e_1.0.0.1_neutral__phtwwbswkwr44</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2b4c42fb-2676-4c9e-ae3f-38185ffaac6e_phtwwbswkwr44!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2b4c42fb-2676-4c9e-ae3f-38185ffaac6e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=영훈</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-03T15:09:27.923</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\css\styles.gz.css">
+      <PackagePath>css\styles.gz.css</PackagePath>
+      <Modified>2012-07-03T14:47:07.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-07-03T14:29:45.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-07-03T14:29:49.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\html\help.html">
+      <PackagePath>html\help.html</PackagePath>
+      <Modified>2012-05-12T22:15:01.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\images\bg.jpg">
+      <PackagePath>images\bg.jpg</PackagePath>
+      <Modified>2012-05-10T23:57:17.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\images\bottom.png">
+      <PackagePath>images\bottom.png</PackagePath>
+      <Modified>2012-05-11T01:01:23.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-28T01:58:22.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\images\right.png">
+      <PackagePath>images\right.png</PackagePath>
+      <Modified>2012-05-11T00:45:38.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-28T01:56:26.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-28T02:12:40.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-28T01:55:22.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\js\board.games.gz.js">
+      <PackagePath>js\board.games.gz.js</PackagePath>
+      <Modified>2012-04-23T15:01:16.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-04-23T20:59:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\js\DLX.js">
+      <PackagePath>js\DLX.js</PackagePath>
+      <Modified>2012-04-23T15:01:45.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\js\jq.extentions.gz.js">
+      <PackagePath>js\jq.extentions.gz.js</PackagePath>
+      <Modified>2012-04-23T15:01:59.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\js\jquery.min.js">
+      <PackagePath>js\jquery.min.js</PackagePath>
+      <Modified>2012-04-23T15:02:10.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\js\script.js">
+      <PackagePath>js\script.js</PackagePath>
+      <Modified>2012-07-08T20:43:41.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\js\sudoku.v2.5.gz.js">
+      <PackagePath>js\sudoku.v2.5.gz.js</PackagePath>
+      <Modified>2012-07-08T20:44:30.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\영훈\Documents\Visual Studio 2012\Projects\TouchSudoku\TouchSudoku\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-07-03T15:09:27.540</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0.RC\1.0\">
+      <Name>Microsoft.WinJS.1.0.RC</Name>
+      <Version>1.0.8377.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0.RC, MinVersion=1.0.8377.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0.RC\1.0\Microsoft.WinJS.1.0.RC.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,31 @@
+﻿#sudokuAppBar {
+    background: #5f91cf
+}
+
+
+body {
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+.sudokuhelp {position: absolute; float:right; text-align: right;   right: 0px; bottom: 350px;   padding:5px 20px; font-size:1.3em; color:#888; cursor:pointer;  /*border-radius:12px;*/ -moz-user-select:none; -webkit-user-select:none}
+.sudokuhelp1{position: absolute; float:right; text-align: right;   right: 0px; bottom: 0px;   padding:5px 20px; font-size:1.3em; color:#888; cursor:pointer;  /*border-radius:12px;*/ -moz-user-select:none; -webkit-user-select:none}
+
+}
+
+@media screen and (-ms-view-state: filled) {
+.sudokuhelp {position: absolute; float:right; text-align: right;   right: 0px; bottom: 350px;   padding:5px 20px; font-size:1.3em; color:#888; cursor:pointer;  /*border-radius:12px;*/ -moz-user-select:none; -webkit-user-select:none}
+.sudokuhelp1{position: absolute; float:right; text-align: right;   right: 0px; bottom: 760px;   padding:5px 20px; font-size:1.3em; color:#888; cursor:pointer;  /*border-radius:12px;*/ -moz-user-select:none; -webkit-user-select:none}
+
+}
+
+@media screen and (-ms-view-state: snapped) {
+.sudokuhelp {position: absolute; float:right; text-align: right;   right: 0px; top: 350px;   padding:5px 20px; font-size:1.3em; color:#888; cursor:pointer;  /*border-radius:12px;*/ -moz-user-select:none; -webkit-user-select:none}
+.sudokuhelp1{position: absolute; float:right; text-align: right;   right: 0px; top: 768px;   padding:5px 20px; font-size:1.3em; color:#888; cursor:pointer;  /*border-radius:12px;*/ -moz-user-select:none; -webkit-user-select:none}
+
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+.sudokuhelp {position: absolute; float:right; text-align: right;   right: 0px; bottom: 350px;   padding:5px 20px; font-size:1.3em; color:#888; cursor:pointer;  /*border-radius:12px;*/ -moz-user-select:none; -webkit-user-select:none}
+.sudokuhelp1{position: absolute; float:right; text-align: right;   right: 0px; bottom: 0px;   padding:5px 20px; font-size:1.3em; color:#888; cursor:pointer;  /*border-radius:12px;*/ -moz-user-select:none; -webkit-user-select:none}
+
+}

@@ -1,0 +1,13 @@
+c:\users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bin\Debug\resources.pri
+c:\users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bin\Debug\AppxManifest.xml
+c:\users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bin\Debug\TouchSudoku.build.appxrecipe
+c:\users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Debug\priconfig.xml
+c:\users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Debug\layout.resfiles
+c:\users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Debug\resources.resfiles
+c:\users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Debug\pri.resfiles
+c:\users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Debug\LanguageQualifiers.txt
+c:\users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Debug\ProjectArchitectures.txt
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Debug\priconfig.xml.intermediate
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Debug\layout.resfiles.intermediate
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Debug\resources.resfiles.intermediate
+C:\Users\영훈\documents\visual studio 2012\Projects\TouchSudoku\TouchSudoku\bld\Debug\pri.resfiles.intermediate
